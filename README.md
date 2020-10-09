@@ -1,2 +1,2 @@
-# twitch-irc-shit
+# twitch-irc-things
 dude read the repo name 
